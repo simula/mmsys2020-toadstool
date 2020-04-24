@@ -1,2 +1,2 @@
-# mmsys2020-toadstool
-GitHub repository for the Toadstool dataset.
+# MMSys 2020 Toadstool
+The dataset is avaialbe here: https://osf.io/qrkcf/
